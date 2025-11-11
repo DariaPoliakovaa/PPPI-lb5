@@ -1,0 +1,14 @@
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\bin\Debug\net9.0\CatProject.exe
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\bin\Debug\net9.0\CatProject.deps.json
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\bin\Debug\net9.0\CatProject.runtimeconfig.json
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\bin\Debug\net9.0\CatProject.dll
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\bin\Debug\net9.0\CatProject.pdb
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\obj\Debug\net9.0\CatProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\obj\Debug\net9.0\CatProject.AssemblyInfoInputs.cache
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\obj\Debug\net9.0\CatProject.AssemblyInfo.cs
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\obj\Debug\net9.0\CatProject.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\obj\Debug\net9.0\CatProject.dll
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\obj\Debug\net9.0\refint\CatProject.dll
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\obj\Debug\net9.0\CatProject.pdb
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\obj\Debug\net9.0\CatProject.genruntimeconfig.cache
+C:\Users\Daria\Documents\GitHub\PPPI-lb5\cat\CatProject\obj\Debug\net9.0\ref\CatProject.dll
