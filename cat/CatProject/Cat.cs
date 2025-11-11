@@ -13,7 +13,9 @@ namespace CatProject
             Age = age;
         }
 
-        public void Meow(){}
+        public void Meow(){
+            Console.WriteLine($"{Name} says: Meow!");
+        }
 
         public void Eat(string food){}
 
