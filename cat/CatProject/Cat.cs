@@ -17,6 +17,9 @@ namespace CatProject
 
         public void Eat(string food){}
 
-        public void Sleep(){}
+        public void Sleep()
+        {
+            Console.WriteLine($"{Name} is sleeping now. Zzz...");
+        }
     }
 }
