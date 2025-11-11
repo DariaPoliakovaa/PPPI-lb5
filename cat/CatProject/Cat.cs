@@ -13,10 +13,14 @@ namespace CatProject
             Age = age;
         }
 
-        public void Meow(){}
+        public void Meow(){
+            Console.WriteLine($"{Name} says: Meow!");
+        }
 
         public void Eat(string food){}
 
-        public void Sleep(){}
+        public void Sleep(){
+            Console.WriteLine($"Conflict!");
+        }
     }
 }
