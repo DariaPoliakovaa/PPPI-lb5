@@ -17,7 +17,9 @@ namespace CatProject
             Console.WriteLine($"{Name} says: Meow!");
         }
 
-        public void Eat(string food){}
+        public void Eat(string food){
+        Console.WriteLine($"{Name} is eating{food}.");
+        }
 
         public void Sleep()
         {
